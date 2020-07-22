@@ -1,4 +1,4 @@
-module github.com/urfave/cli
+module github.com/urfave/cli/v1
 
 go 1.11
 
