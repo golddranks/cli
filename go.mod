@@ -1,4 +1,4 @@
-module github.com/golddranks/cli
+module github.com/golddranks/cli.v1
 
 go 1.11
 
